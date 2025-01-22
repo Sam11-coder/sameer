@@ -1,0 +1,76 @@
+body{
+    background-image: url(https://www.vmcdn.ca/f/files/via/images/weather/sunset-english-bay-vancouver.jpg;w=960);
+    background-repeat: no-repeat; 
+    background-size:cover;
+    background-position: center; 
+    background-attachment: fixed;
+}
+
+
+.head{
+    text-align: center;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -10px;
+    height: 100px;
+    width: 110%;
+    font-size: large;
+    margin-bottom: 3rem;
+    margin-right: 50px;
+    border-bottom: lightslategrey solid;
+
+}
+.foot{
+    text-align: center;
+    border: 1px solid lightslategray;
+    border-top: 1px solid black;
+    margin-top: 20px;
+    
+    border-top: solid lightslategray;
+}
+a{
+    text-decoration: none;
+}
+.me{
+    border: 1px solid black;
+    background-color: lightslategray;
+    padding: 10px;
+    border-style: solid;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-style: italic;
+    font-weight: 100;
+}
+.skill{
+    border: 1px solid black;
+    border-top: 1px solid black;
+    margin-top: 20px;
+    background-color: lightslategray;
+    border-style: solid;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-style: italic;
+}
+.Project{
+    border: 1px solid black;
+    border-top: 1px solid black;
+    margin-top: 20px;
+    background-color: lightslategray;
+    border-style: solid;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-style: italic;
+}
+.one{
+
+    background-color:lightslategray;
+    margin-bottom: 10px;
+}
+.two{
+    background-color:lightslategray;
+    margin-bottom: 10px;
+}
+.three{
+    background-color:lightslategray;    
+}

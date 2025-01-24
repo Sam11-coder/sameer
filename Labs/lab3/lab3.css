@@ -8,15 +8,15 @@ body{
 
 
 .head{
-    text-align: center;
+    
     color: #ffffff;
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: -10px;
+    margin-top: 100px;
     height: 100px;
     width: 110%;
-    font-size: large;
-    margin-bottom: 3rem;
+    font-size: 250%;
+    margin-bottom: 5px;
     margin-right: 50px;
     border-bottom: whitesmoke;
 
@@ -45,6 +45,7 @@ a{
     font-weight: 100;
     border-radius: 20px;
     color: #ffffff;
+    text-decoration-thickness: 5px;
 
 }
 .skill{
@@ -58,6 +59,7 @@ a{
     border-radius: 20px;
     backdrop-filter: blur(5px);
     color: #ffffff;
+    text-decoration-thickness: 5px;
 }
 .Project{
     border: 1px solid #ffffff;
@@ -71,7 +73,7 @@ a{
     backdrop-filter: blur(5px);
     text-align: center;
     color: #ffffff;
-
+    text-decoration-thickness: 5px;
 }
 .one{
 
@@ -89,4 +91,7 @@ a{
 }
 ul > a{
     color: #ffffff;
+}
+h2{
+    text-align: center;
 }
